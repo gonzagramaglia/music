@@ -16,7 +16,7 @@ const App = () => {
               href="https://www.gonza.gr/" 
               target="_blank"
           >
-            <img src="/assets/logo.png" alt="logo" className='logo' /> 
+            <img src="https://i.postimg.cc/9z5zvr3M/logo.png" alt="logo" className='logo' /> 
           </a>
           <a 
               href="https://github.com/gonzagramaglia/social" 
