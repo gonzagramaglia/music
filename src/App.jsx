@@ -19,7 +19,7 @@ const App = () => {
             <img src="https://i.postimg.cc/9z5zvr3M/logo.png" alt="logo" className='logo' /> 
           </a>
           <a 
-              href="https://github.com/gonzagramaglia/social" 
+              href="https://github.com/gonzagramaglia/music" 
               className='github-logo-container'
               target="_blank"
           >
