@@ -21,3 +21,22 @@ during the **[Build and Deploy a Better Spotify 2.0 Clone Music App with React 1
 
 #### Starter Code
 https://drive.google.com/file/d/1iTlXIZ4T3BBKjgLMsDpQn-Eux1B3ZyXO/view
+
+#### Dependencies that were used:
+
+* **Redux**
+_Official website: https://redux.js.org/_ (a predictable state container for JavaScript apps. It helps you write applications that behave consistently, run in different environments (client, server, and native), and are easy to test. On top of that, it provides a great developer experience, such as live code editing combined with a time traveling debugger.)
+
+* **Axios**
+_Official website: https://axios-http.com/_ (Promise based HTTP client for the browser and node.js)
+
+* **Swiper**
+_Official website: https://swiperjs.com/_ (the most modern free mobile touch slider)
+
+* **React Icons**
+_Official website: https://github.com/react-icons/react-icons_ (to use icons)
+
+<br>
+
+After unzipping and opening the Starter Code folder in VSCode, run '**npm install**'
+
